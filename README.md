@@ -17,10 +17,6 @@ Flutter App with the same style as Netflix for Android and iOS.
 <img src="screenshots/video-interaction.gif" alt="screen_04" height="300" />
 </div>
 
-## Server
-
-[Netflix Flutter NodeJS & MongoDB](https://github.com/devdennysegura/nodejs-server-Flutter-Netflix-App)
-
 ## Installation
 
     $ clone this repo
